@@ -2,8 +2,8 @@
 
 🌱 Aspiring environmental data scientist | Python & R enthusiast
 
--Current: Campus green space explorer app
--Past: Global land use & forest change analysis
+- Current: Campus green space explorer app
+- Past: Global land use & forest change analysis
 
 🍏 Created iOS app promoting healthy diets
 🌳 Passionate about forest restoration & environmental protection
