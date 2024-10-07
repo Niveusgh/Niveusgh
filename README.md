@@ -1,4 +1,12 @@
-- I'm a developer specializing in environmental data analysis with Python and R.
-- My projects include an AI chess engine in Java and iOS health apps using Swift and CareKit.
-- I am currently pursuing a career in data science.
+# The Francis
+
+🌱 Aspiring environmental data scientist | Python & R enthusiast
+
+Current: Campus green space explorer app
+Past: Global land use & forest change analysis
+
+🍏 Created iOS app promoting healthy diets
+🌳 Passionate about forest restoration & environmental protection
+
+Leveraging tech for a greener, healthier world!
 
