@@ -1,4 +1,4 @@
-# The Francis
+# Thea Francis
 
 🌱 Aspiring environmental data scientist | Python & R enthusiast
 
