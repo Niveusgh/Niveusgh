@@ -1,7 +1,7 @@
 # Thea Francis
 
 🌱 Aspiring environmental data scientist | Python & R enthusiast
-- 💻 Current: Campus green space explorer app
+- 💻 Current: REDCap Data Migration Toolkit
 - 📊 Past: Global land use & forest change analysis
 - 🍏 Created iOS app promoting healthy diets
 - 🌳 Deeply passionate about forest restoration & environmental protection
